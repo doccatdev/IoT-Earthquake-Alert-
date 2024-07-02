@@ -1,5 +1,5 @@
 # IoT Earthquake Alert
-This project is created for Business Intelligence Course
+Created for Business Intelligence Course Final Exam
 
 ### Parts used/needed to make this project 
 - EPS8266
