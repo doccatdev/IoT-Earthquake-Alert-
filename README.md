@@ -24,7 +24,7 @@ This project is created for Business Intelligence Couse
 
 
 ### Schematic (Fritzing)
-![AlatFix](https://github.com/readdoc-png/IoT-Earthquake-Alert-/assets/40491907/b43ce9e8-ed73-4d51-856b-4024a72733ee)
+![SchematicFritzzingFinal_bb](https://github.com/readdoc-png/IoT-Earthquake-Alert-/assets/40491907/653668f2-205a-4de1-a556-3b22d1479f3e)
 
 
 ### Implementation 
