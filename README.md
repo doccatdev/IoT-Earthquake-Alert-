@@ -32,7 +32,8 @@ This project is created for Business Intelligence Couse
 
 
 ### Output 
-![AlertEmail-copy](https://github.com/readdoc-png/IoT-Earthquake-Alert-/assets/40491907/ec130cce-1e4a-4eac-9cf4-14c8da94acc8)
+![AlertEmail-Fix_2](https://github.com/readdoc-png/IoT-Earthquake-Alert-/assets/40491907/08e95a41-0d4b-471c-9ee7-cb4d721be03f)
+
 ![AlertHP-copy](https://github.com/readdoc-png/IoT-Earthquake-Alert-/assets/40491907/e9f29720-746d-4f8c-a51a-5a80fab09545)
 
 
