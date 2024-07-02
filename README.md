@@ -23,8 +23,20 @@ This project is created for Business Intelligence Couse
 ![DatabaseDesign System](https://github.com/readdoc-png/IoT-Earthquake-Alert-/assets/40491907/8fd3fcda-c05f-4404-8ce1-c3ca0172c9d7)
 
 
+### Schematic (Fritzing)
+![AlatFix](https://github.com/readdoc-png/IoT-Earthquake-Alert-/assets/40491907/b43ce9e8-ed73-4d51-856b-4024a72733ee)
+
+
 ### Implementation 
 ![AlatFix-copy](https://github.com/readdoc-png/IoT-Earthquake-Alert-/assets/40491907/75eb56bb-a690-44dc-8667-8e4aa208fea9)
+
+### Output 
+![AlertEmail-copy](https://github.com/readdoc-png/IoT-Earthquake-Alert-/assets/40491907/ec130cce-1e4a-4eac-9cf4-14c8da94acc8)
+![AlertHP-copy](https://github.com/readdoc-png/IoT-Earthquake-Alert-/assets/40491907/e9f29720-746d-4f8c-a51a-5a80fab09545)
+
+
+
+
 
 
 
