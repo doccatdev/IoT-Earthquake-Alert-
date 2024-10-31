@@ -16,10 +16,6 @@ Created for Business Intelligence Course Final Exam
 
 - https://www.youtube.com/watch?v=iQkpqpHdCZc&t=155s&pp=ygUYaW90IGVhcnRocXVha2UgZGV0ZWN0aW9u
 
-#### The main code of this project is based on these tutorial, I just trying to modifying the code from that video, because I add a new sensor to the project.
-- https://www.youtube.com/watch?v=HTJZl6ZxiAM&t=58s&pp=ygUYaW90IGVhcnRocXVha2UgZGV0ZWN0aW9u
-
-
 ### Block Diagram 
 ![DatabaseDesign System](https://github.com/readdoc-png/IoT-Earthquake-Alert-/assets/40491907/8fd3fcda-c05f-4404-8ce1-c3ca0172c9d7)
 
