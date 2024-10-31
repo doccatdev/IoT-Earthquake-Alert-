@@ -1,14 +1,14 @@
-#define BLYNK_TEMPLATE_ID "TMPL6BmMW5zaq"
-#define BLYNK_TEMPLATE_NAME "Earthquake Alert Warning System"
-#define BLYNK_AUTH_TOKEN "m-sG7ZFhNr02_rMWwQbelleoGI8ly92Y"
+#define BLYNK_TEMPLATE_ID "YOUR BLINK TEMPLATE ID"
+#define BLYNK_TEMPLATE_NAME "YOUR BLINK TEMPLATE NAME"
+#define BLYNK_AUTH_TOKEN "YOUR BLYNK AUTH TOKEN"
 
 #define BLYNK_PRINT Serial
 #include <BlynkSimpleEsp8266.h>
 
 // Blynk settings
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "";
-char pass[] = "";
+char ssid[] = "YOUR WIFI SSID";
+char pass[] = "YOUR WIFI PASSWORD";
 
 // Vibration sensor settings
 const int vibrationPin = A0; // Use the appropriate analog pin on your ESP8266
