@@ -27,6 +27,8 @@ Created for Business Intelligence Course Final Exam
 ### Implementation 
 ![AlatFix-copy](https://github.com/readdoc-png/IoT-Earthquake-Alert-/assets/40491907/b14467a2-fafd-45e5-893d-c6a53758d357)
 
+### Demo Video
+
 
 ### Output 
 ![AlertEmail-Fix_2](https://github.com/readdoc-png/IoT-Earthquake-Alert-/assets/40491907/08e95a41-0d4b-471c-9ee7-cb4d721be03f)
